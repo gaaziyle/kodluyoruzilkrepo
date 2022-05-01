@@ -1,0 +1,44 @@
+body {
+    background-color: gray;
+}
+h2{
+    text-align: center;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid black;
+    
+}
+#ingredient{
+    width: 90%;
+    margin: auto;
+}
+#ingredient p{
+    font-size: 30px;
+
+
+}
+
+#ingredient ul li {
+    font-size: 25px;
+}
+#hint {
+    width: 90%;
+    margin: auto;
+}
+#ready-iskender {
+    width: 90%;
+    margin: auto;
+}
+#ready-iskender ol li {
+    font-size: 25px;
+    margin: 10px;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    background: gray;
+    
+}
+::-webkit-scrollbar-thumb{
+    background: white;
+}
